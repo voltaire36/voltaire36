@@ -15,7 +15,7 @@ I’ve worked with **AWS (Elastic Beanstalk, API Gateway)**, **MongoDB**, **Dyna
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, Python, C#, Java  
 **Frontend:** React, Bootstrap, Vite  
